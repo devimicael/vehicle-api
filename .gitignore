@@ -1,0 +1,12 @@
+# Node.js
+/node_modules
+/dist
+
+# Prisma
+/.prisma
+
+# Arquivo de configuração do banco de dados
+.env
+
+# Logs
+*.log
